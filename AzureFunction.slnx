@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AzureFunction/AzureFunction.csproj" />
+  <Project Path="SBReceiver/SBReceiver.csproj" Id="434b4257-9252-4f9a-98a8-c132c4bb3404" />
+  <Project Path="ServiceBusReceiver/ServiceBusReceiver.csproj" Id="4353d42c-0137-4b7f-92c4-fc0db30d6465" />
+  <Project Path="ServiceBusSender/ServiceBusSender.csproj" Id="84587310-6dcf-4315-a762-3dece49fc0c8" />
+  <Project Path="TopicSubscriptionSender/TopicSubscriptionSenderReceiver.csproj" Id="7038a8ef-bfd0-4174-82a6-bd6500d550d8" />
+</Solution>
